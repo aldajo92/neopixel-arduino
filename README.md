@@ -2,4 +2,4 @@
 
 
 ## Requirements. ##
-* [Neopixel](https://github.com/FastLED/FastLED)
+* [FastLed](https://github.com/FastLED/FastLED)
